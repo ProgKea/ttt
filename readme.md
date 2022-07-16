@@ -6,7 +6,18 @@
 
 ```console
 $ make
+```
+
+To play the game against a bot start the game with no flags:
+
+```console
 $ ./ttt
+```
+
+To play the game with a friend locally start the game with -l:
+
+```console
+$ ./ttt -l
 ```
 
 ## Controls
