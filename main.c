@@ -246,7 +246,7 @@ void play_again_prompt(Game *game) {
     }
     else winner = "nobody";
 
-    printf("%s won! Press 'r' to play again, and 'q' to quit\n", winner);
+    printf("%s won! Press 'r' to play again and 'q' to quit\n", winner);
     char key = getc(stdin);
     while (true) {
         if (key == 'q') {
