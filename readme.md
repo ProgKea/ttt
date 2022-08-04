@@ -1,6 +1,6 @@
 # Terminal TicTacToe
 
-![preview](./preview.png)
+<img src="demo.gif">
 
 ## How to start
 
